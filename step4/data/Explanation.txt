@@ -1,0 +1,7 @@
+
+Tried to draw concentric circles
+Logic : Check distance from center of the screen,
+and if it is a multiple of circleGap (i.e. radii being circleGap, circleGap*2.0, etc), within error of line thickness, then, color it white.
+
+If you pass a different u_circleGap from .pde file -> different radii circles.
+A different u_lineThickness -> varies the line width of circles.
