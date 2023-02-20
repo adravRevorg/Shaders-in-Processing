@@ -8,3 +8,4 @@ Step0:  Basic shader for displaying a black and white gradient originating from 
 Step1:  Draw the line x=y.  
 Step2:  Calculate quadrants based on glFragCoord.   
 Step3:  Draw a checkerboard!  
+Step4:  Concentric circles, with generic radii and thickness.  
